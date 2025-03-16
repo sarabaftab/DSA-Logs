@@ -1,5 +1,5 @@
-# DSA Solutions 
-
+# DSA Logs 
+By: Sarab Aftab
 This repository contains solutions to the **NeetCode 150** challenge, covering essential Data Structures and Algorithms (DSA) problems from LeetCode. The goal is to build a strong foundation in problem-solving and algorithmic thinking.
 
 ## Repository Structure
