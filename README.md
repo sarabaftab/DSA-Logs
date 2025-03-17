@@ -5,7 +5,7 @@ This repository contains solutions to the NeetCode 150 challenge, covering essen
 ## Repository Structure
 
 - Each file corresponds to a different problem from the NeetCode 150 list.
-- Solutions are implemented in JavaScript (may expand to other languages later).
+- Solutions are implemented in Python (may expand to other languages later).
 - Optimized approaches and explanations are included where necessary.
 
 ## Purpose
