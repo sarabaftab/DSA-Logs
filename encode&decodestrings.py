@@ -3,14 +3,11 @@
 # Please implement encode and decode
 
 # Example 1:
-
 # Input: ["neet","code","love","you"]
-
 # Output:["neet","code","love","you"]
+
 # Example 2:
-
 # Input: ["we","say",":","yes"]
-
 # Output: ["we","say",":","yes"]
 
 class Solution:
