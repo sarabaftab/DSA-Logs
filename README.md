@@ -20,4 +20,4 @@ This is a personal practice repository, but others are welcome to explore the so
 
 ---
 
-**by: Sarab Aftab**
+### by: Sarab Aftab
